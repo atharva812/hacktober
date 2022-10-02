@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+-[Samyak Sheokar](https://github.com/SamyakSheokar2203)
 -[Tharuka Wijekoon](https://github.com/tharuka01)
 -[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
 -[Rishabh Sharma](https://github.com/rishabh2209)
@@ -42,6 +43,7 @@
 - [Harshwardhan Tanwar](https://github.com/harshxtanwar)
 - [Luis Pellizzon](https://github.com/lhpellizzon)
 - [Kaushal Damania](https://github.com/kaushal4)
+- [Prakhar Goyal](https://github.com/Prakhar-Goyal-3014)
 - [Baribor Saturday](https://github.com/Baribor)
 - [Himanshi Sharma](https://github.com/himanshi2511)
 - [Sandeep](https://github.com/Sandeep-1507)
@@ -64,7 +66,9 @@
 - [Charvi Upreti]
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
+- [Atul Sisodiya](https://github.com/AtulSisodiya)
 - [Ridho Tadjudin](https://github.com/ridhotadjudin)
+- [hekaton80](https://github.com/hekaton80)
 - [Indravijay](https://github.com/indravijay-bot)
 - [Tanay Das](https://github.com/Dev-tanay/Dev-tanay)
 - [Ashirbad Pandey](https://github.com/ashirvadpandey)
@@ -105,6 +109,7 @@
 - [Yash Adake](https://github.com/YashAdake)
 - [Jose Jimmy](https://github.com/jose-jimmy)
 - [Manisha Nair](https://github.com/manisha-nair28)
+- [Atreay Kukanur](https://github.com/ATREAY)
 - [Harsh Jain](https://github.com/Sriver27)
 - [v-apor](https://github.com/v-apor)
 - [Fahri Gunadi](https://github.com/FahriGunadi)
@@ -1470,6 +1475,7 @@
 - [VinWare](https://github.com/VinWare)
 - [Manthan Keim](https://github.com/manthankeim)
 - [Mario Ruiz](https://github.com/ma-r-s)
+- [UtopiaDreamTeam](https://github.com/UtopiaDreamTeam)
 - [Harsh Wasnik](https://github.com/MUCCHU)
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
@@ -1497,6 +1503,7 @@
 - [Yes](github.com/hexsploit0x01)
 - [Ardy](https://github.com/ardyop)
 - [Ganesh Rahate](https://github.com/Ganeshsrahate)
+- [JFrids](https://github.com/JFrids)
 - [Chakshu](https://github.com/chakshu31)
 - [Gulshan Khandale](https://github.com/Gulshankhandale)
 - [GuyKh](https://github.com/GuyKh)
